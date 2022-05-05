@@ -17,7 +17,7 @@ handler.setFormatter(logging.Formatter('%(asctime)s:%(levelname)s:%(name)s: %(me
 logger.addHandler(handler)
 
 # Токен бота
-TOKEN = "OTY2NjczOTIwMzEwNzkyMjE3.YmFLPg.URdWRFwmoyCy20kdWZnUfI62rHA"
+TOKEN = "***"
 
 # Цвета для рамок
 all_colors = {
