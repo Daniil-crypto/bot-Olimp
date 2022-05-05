@@ -39,7 +39,7 @@ all_colors = {
 }
 rainbow_colors = [0x32a852, 0x3296a8, 0xb700ff, 0x9232a8, 0xa8326f, 0xf25207, 0x3efa00, 0xfa0000]
 
-TOKEN = "OTY2NjczOTIwMzEwNzkyMjE3.YmFLPg.URdWRFwmoyCy20kdWZnUfI62rHA"
+TOKEN = "***"
 
 intents = discord.Intents.default()
 intents.members = True
