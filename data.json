@@ -1,0 +1,62 @@
+{
+    "956515574027001866": {
+        "name": "off team",
+        "id": 956515574027001866,
+        "warn_max": 5,
+        "greetings": [],
+        "mutes": {},
+        "bans": {},
+        "warns": {
+            "пїЅпїЅпїЅпїЅ": {
+                "name": 621345963595923461,
+                "count": 1
+            }
+        },
+        "settings": {
+            "channels": {
+                "audit_channel": 967127839541461022,
+                "hello_channel": 968538721307754607,
+                "bot_channel": 968595899292991528
+            },
+            "audit_settings": {
+                "on": false,
+                "all_msgs": "off",
+                "del_msgs": "on",
+                "edit_msgs": "on",
+                "edit_roles": "on",
+                "edit_servname": "on",
+                "edit_channels": "on"
+            },
+            "mute_role": 966732294498955394
+        }
+    },
+    "777213003052613632": {
+        "name": "FROMADI",
+        "id": 777213003052613632,
+        "warn_max": 10,
+        "greetings": [
+            "Привет {member} я тыба люблю",
+            "Привет, привет"
+        ],
+        "mutes": {},
+        "bans": {},
+        "warns": {},
+        "settings": {
+            "channels": {
+                "audit_channel": 777604336163225640,
+                "hello_channel": 777604558154104884,
+                "bot_channel": 777604558154104884
+            },
+            "audit_settings": {
+                "on": true,
+                "all_msgs": "on",
+                "del_msgs": "on",
+                "edit_msgs": "on",
+                "edit_roles": "on",
+                "edit_servname": "on",
+                "edit_channels": "on"
+            },
+            "mute_role": 777224473799163954
+        }
+    }
+}
